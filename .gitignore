@@ -1,0 +1,10 @@
+/out/
+*.idea
+*.iml
+database.properties
+/target
+*.gradle
+/build
+demo.iml
+mvnw.cmd
+mvnw
